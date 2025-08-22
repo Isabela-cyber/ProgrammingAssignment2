@@ -53,9 +53,6 @@ cacheSolve <- function(x, ...) {
   m_inv
 }
 
-git add cachematrix.R
-git commit -m "Solucion a la tarea de caching de matrices en R"
-git push
 
 
 
